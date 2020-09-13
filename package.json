@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "0.1",
+  "description": "Primera alpha del SpanishBot",
+  "main": "index.js",
+  "start": "node src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "thespanishpro#7669",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "index.js"
+  }
+}
